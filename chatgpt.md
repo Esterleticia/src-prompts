@@ -1,5 +1,9 @@
 PROMPTS
+
+
 CHATGPT:
+
+
 TITULO: crie um titulo de ebook sobre o tema hack, o ebook e sobre a área da segurança da informação, subnicho roubo de dados, o titulo deve ser curto mais alto informativo, com temática divertida , liste 4 variações de titulo
 
 
